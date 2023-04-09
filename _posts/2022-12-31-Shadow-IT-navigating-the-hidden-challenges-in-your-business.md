@@ -5,6 +5,7 @@ author: james
 categories: [ Management Tips ]
 image: assets/images/shadow-it.jpg
 featured: true
+hidden: true
 ---
 # Shadow IT: Navigating the Hidden Challenges in Your Business
 

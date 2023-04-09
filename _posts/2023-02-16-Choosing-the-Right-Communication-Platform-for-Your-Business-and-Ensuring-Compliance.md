@@ -4,6 +4,8 @@ title:  "Choosing the Right Communication Platform for Your Business and Ensurin
 author: james
 categories: [ Messaging, Compliance, Platforms ]
 image: assets/images/choosing-the-right-app.jpg
+featured: true
+hidden: true
 ---
 # Choosing the Right Communication Platform for Your Business and Ensuring Compliance
 
