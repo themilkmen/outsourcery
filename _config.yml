@@ -5,7 +5,7 @@ description: "The Milk Men Guide for Business Owners to get the most from their 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
+google_analytics: ''
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
