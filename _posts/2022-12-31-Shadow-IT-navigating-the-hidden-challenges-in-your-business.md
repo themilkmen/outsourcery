@@ -4,7 +4,8 @@ title:  "Shadow IT: Navigating the Hidden Challenges in Your Business"
 author: james
 categories: [ Management Tips ]
 image: assets/images/shadow-it.jpg
-tags: sticky 
+featured: true
+rating: 4.5
 ---
 # Shadow IT: Navigating the Hidden Challenges in Your Business
 
