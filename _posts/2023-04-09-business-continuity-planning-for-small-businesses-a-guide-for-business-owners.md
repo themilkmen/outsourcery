@@ -3,7 +3,7 @@ layout: post
 title:  "Business Continuity Planning for Small Businesses: A Guide for Business Owners"
 author: james
 categories: [ Business Management ]
-image: assets/images/home.jpg
+image: assets/images/tech-support.jpg
 ---
 # Business Continuity Planning for Small Businesses: A Guide for Non-Tech-Savvy Owners
 
