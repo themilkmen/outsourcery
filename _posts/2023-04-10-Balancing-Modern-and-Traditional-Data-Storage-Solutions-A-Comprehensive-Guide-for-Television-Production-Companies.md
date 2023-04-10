@@ -4,7 +4,6 @@ title: "Balancing Modern and Traditional Data Storage Solutions: A Comprehensive
 author: james
 categories: [Data Storage, Television Production]
 image: assets/images/tvland.jpg
-featured: yes
 ---
 
 ## Introduction
