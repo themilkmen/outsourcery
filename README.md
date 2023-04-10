@@ -1,23 +1,7 @@
-# Mediumish - Jekyll Theme
+This website is distributed under the MIT license, which covers the code of the theme used to create the site. However, all of the content on this website, including text, images, and other media, is the property of The Milk Men LTD and is protected.
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+We grant you permission to use the code of the site's theme under the terms of the MIT license, but we do not grant you permission to use our content without our explicit written consent.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+If you are interested in using any of the content on our website, please contact us at [insert contact information] to request permission. We appreciate your respect for our intellectual property rights and look forward to hearing from you.
 
-
-### Copyright
-
-Copyright (C) 2019 Sal, https://www.wowthemes.net
-
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+Thank you for visiting our website!
