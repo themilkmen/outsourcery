@@ -4,6 +4,7 @@ title:  "Business Continuity Planning for Small Businesses: A Guide for Business
 author: james
 categories: [ Business Management ]
 image: assets/images/tech-support.jpg
+excerpt: Business continuity planning (BCP) is a crucial process that enables organizations to maintain essential functions and ensure the ongoing availability of critical services during and after a disaster or disruption.
 ---
 # Business Continuity Planning for Small Businesses: A Guide for Non-Tech-Savvy Owners
 

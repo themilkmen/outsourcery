@@ -4,6 +4,7 @@ title:  "Why it's Vital to Restrict Local Administrator Rights"
 author: james
 categories: [ Management Tips, Best Practices ]
 image: assets/images/admin-rights.jpg
+excerpt:  While it may seem counterintuitive, limiting these privileges can actually improve overall security and efficiency
 ---
 # Why controlling administrative access to your work computers can save you time, money and a lot of pain
 

@@ -5,6 +5,7 @@ author: james
 categories: [ Waste, Recyling, ]
 image: assets/images/computer-waste.jpg
 tags: [waste]
+excerpt: Small and medium-sized businesses (SMBs) must consider various factors when disposing of IT equipment, including data security, environmental impact, and regulatory compliance
 ---
 # IT Equipment Disposal for Small and Medium-sized Businesses: The Benefits of Partnering with an MSP
 

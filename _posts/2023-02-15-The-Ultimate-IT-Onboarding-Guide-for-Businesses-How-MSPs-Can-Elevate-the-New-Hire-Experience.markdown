@@ -4,6 +4,7 @@ title:  "The Ultimate IT Onboarding Guide for Businesses: How MSPs Can Elevate t
 author: james
 categories: [ Featured ]
 image: assets/images/onboarding.jpg
+excerpt: A smooth onboarding process not only helps new hires quickly become productive members of your team but also fosters a sense of belonging and satisfaction, ultimately reducing turnover rates.
 ---
 # The Ultimate IT Onboarding Guide for Businesses: How MSPs Can Elevate the New Hire Experience
 

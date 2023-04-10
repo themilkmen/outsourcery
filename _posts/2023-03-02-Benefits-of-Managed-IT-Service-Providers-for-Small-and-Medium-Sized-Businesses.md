@@ -5,6 +5,7 @@ author: james
 categories: [ tutorial ]
 image: assets/images/choosing-an-msp.jpg
 tags: [featured]
+excerpt: Managed IT service providers (MSPs) can bring numerous benefits to small and medium-sized businesses (SMBs)
 ---
 ## Benefits of Managed IT Service Providers for Small and Medium-Sized Businesses
 

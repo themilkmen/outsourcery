@@ -4,6 +4,7 @@ title:  "Enhancing BYOD for Small and Medium Businesses"
 author: james
 categories: [ BYOD, Management Tips ]
 image: assets/images/dual-sim.jpg
+excerpt: With the rise of dual SIM capabilities in smartphones, businesses now have the option to provide employees with a company-provided SIM card and a dedicated work number
 ---
 
 # The Dual SIM Advantage: Enhancing BYOD for Small and Medium Businesses

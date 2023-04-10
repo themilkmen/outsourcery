@@ -6,6 +6,7 @@ categories: [ Messaging, Compliance, Platforms ]
 image: assets/images/choosing-the-right-app.jpg
 featured: true
 hidden: true
+excerpt: In today's digital landscape, businesses have a plethora of communication platforms to choose from, making the decision-making process complex.
 ---
 # Choosing the Right Communication Platform for Your Business and Ensuring Compliance
 
