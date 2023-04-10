@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: ''
 disqus: ''
-mailchimp-list: '005d7f7206'
+mailchimp-list: 'https://0866b5ee.sibforms.com/serve/MUIEAIscQWsVdlSw1Ih_ZbD-t6AdUwgQsRmAovy8oQUwI2X5w9U8PiwzrsTysJVY-yziWEtFXoRpJEhoQpTGgbgxv1hRzXPbQOUdNLCWFfoFP8ILbliHYRKeebthsGTbRC7ELCXu3etFyzaDZQsrTsPK3lGKiXitZOin9mDI8PrcAelRZyX1IXxZhZQeuLPjpaZF-UumewDGiAsg'
 include: ["_pages"]
 permalink: /:title/
 
