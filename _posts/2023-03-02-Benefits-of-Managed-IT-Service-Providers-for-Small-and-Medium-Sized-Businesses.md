@@ -3,7 +3,7 @@ layout: post
 title:  "Benefits of Managed IT Service Providers for Small and Medium-Sized Businesses"
 author: james
 categories: [ tutorial ]
-image: assets/images/tech-support.jpg
+image: assets/images/choosing-an-msp.jpg
 tags: [featured]
 ---
 ## Benefits of Managed IT Service Providers for Small and Medium-Sized Businesses
